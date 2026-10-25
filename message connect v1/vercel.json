@@ -1,0 +1,4 @@
+{
+  "installCommand": "echo 'No install needed'",
+  "buildCommand": "echo 'Build OK'"
+}
